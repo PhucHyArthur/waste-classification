@@ -1,0 +1,6 @@
+__pycache__
+mlruns
+mlartifacts
+Test_code
+checkpoints
+training.ipynb
